@@ -7,7 +7,7 @@ A fast, single-page site built with plain HTML and CSS. It has no framework, no 
 ## What's on the site
 
 - **Selected work:** three project highlights from my professional experience (EKS landing zone, cloud cost-control automation, GitLab CI/CD delivery), summarized at a high level.
-- **Public work:** [eks-fargate-landing-zone](https://github.com/MusaveerHolalkere25/eks-fargate-landing-zone), an open-source Terraform reference for a multi-environment EKS on Fargate platform, built from scratch.
+- **Public work:** [eks-fargate-lz](https://github.com/MusaveerHolalkere25/eks-fargate-lz), an open-source Terraform reference for a multi-environment EKS on Fargate platform, built from scratch.
 - **About, expertise and experience:** skills, career history, certifications and education.
 - **Contact:** email, LinkedIn and GitHub.
 
